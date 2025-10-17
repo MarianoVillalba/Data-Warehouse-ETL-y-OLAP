@@ -1,0 +1,7 @@
+CONCLUSIONES ACTIVIDAD 4
+==============================
+
+Producto mas facturado: monitor 24"
+Region mas rentable: Norte
+Ingreso total: $1,750.00
+El analisis OLAP permite identificar oportunidades especificas por region y categoria.
